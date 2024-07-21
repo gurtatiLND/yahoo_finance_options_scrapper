@@ -1,0 +1,7 @@
+yfinance==0.2.41
+pandas==2.2.2
+sqlalchemy==2.0.17
+requests==2.32.3
+beautifulsoup4==4.12.3
+scipy
+tabulate

@@ -1,0 +1,73 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.sqlite3
+*.db
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+
+# Environment variable files
+.env
+
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+*.pyd
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MyPy
+.mypy_cache/
+
+# Pytest
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Build directories
+build/
+dist/
+*.egg-info/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Log files
+*.log
+
+# MacOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+
+# Pyre type checker
+.pyre/
+
+# IDE configuration
+*.swp
+*.swo
+*.swn
+*.sublime-workspace
+*.sublime-project
+
+# Local configuration files
+local_config.py
+
+# Ignore SQLite database file
+finance_data.db
